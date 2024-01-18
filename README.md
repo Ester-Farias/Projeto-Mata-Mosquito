@@ -2,19 +2,19 @@
 ![GifMataMosquito](https://user-images.githubusercontent.com/103768076/177569604-a1b07213-fd38-4b35-b26c-f4968b22cf88.gif)
 
 <h1 align="center">
-<p>All your music in the palm of your hand!<br> 
-Todas as suas musicas na palma da sua mão!</p>
+<p>Your old game here!<br> 
+Seu jogo velho aqui!</p>
 </h1>
-<h3 align="center"><a href="https://incomparable-nougat-1f33f0.netlify.app/">See the project here!<br>
+<h3 align="center"><a href="https://prismatic-sunburst-ca97d5.netlify.app/projeto%20mata%20mosquito/inicio.html">See the project here!<br>
 Veja o projeto aqui!</a></h3>
 <hr>
 
 <br>
 
 ## 📸 About
-Project carried out based on an activity from the Complete Web Development course on the Udemy platform. The intention of the project was to clone the Spotify company website based on its initial layout, in order to learn about responsiveness, layout overlays and the parallax effect.
+A simple project developed with javascript, html and css to learn the simple functionalities of JS and how to combine it with html.
 
-Projeto realizado com base em uma atividade do curso Desenvolvimento Web completo pela plataforma da Udemy. O intuido do projeto era fazer o clone do site da empresa Spotify arespeito do seu layout inicial, afim de aprender sobre responsividade, sobreposições de layouts e o efeito parallax.
+Um projeto simples desenvolvido com javascript, html e css para aprender as fucionalidades simples do JS e como combinar ele com html.
 
 <br> 
 
